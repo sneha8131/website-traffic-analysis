@@ -60,7 +60,7 @@ This project was completed as part of the Website Traffic Analysis Internship Ta
 
 GitHub Repository
 
-Project Repository: https://github.com/sneha8131/syntax-hub
+Project Repository: https://github.com/sneha8131/website-traffic-analysis
 
 Author
 
